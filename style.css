@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgb(115, 115, 212);
+    color: white;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.panel {
+    background-color: rgb(115, 115, 212);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+#about {
+    padding: 20px;
+    text-align: center;
+}
+
+#projects {
+    padding: 20px;
+    text-align: center;
+}
